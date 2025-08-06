@@ -6,7 +6,7 @@
       <p>Experienced Data Scientist | GenAI | Public Policy</p>
     </td>
     <td align="right">
-      <img src="banner.png" alt="Banner" width="600px">
+      <img src="banner.png" alt="Banner" width="520px">
     </td>
   </tr>
 </table>
