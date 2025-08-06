@@ -1,16 +1,26 @@
-## Hi there 👋
+## Welcome to my GitHub!
 
-<!--
-**neetika3010/neetika3010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Data Scientist** with a passion for solving real-world problems using Statistics,Core Machine Learning,Deep Learning,NLP and GenAI. My work spans from **RAG-based QA systems** and **health analytics** to **clustering, prediction models**, and **AI-driven chatbots**.
 
-Here are some ideas to get you started:
+Currently building robust, reproducible AI workflows using **PyTorch**, **LangChain**, **Docker**, and **AWS** — with a focus on modularity, deployment, and impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Blog and Learning Resources
+
+I regularly write on **Data Science,NLP,Core Machine Learning,GenerativeAI** — turning complex topics into intuitive explainers.  
+**Check out my blog on [Medium](https://medium.com/@neetikashree)** for articles on AI evaluation, RAG, and more!
+
+
+### Languages and Tools
+
+`python` `pytorch` `scikit_learn` `huggingface`  
+`docker` `aws` `langchain` `openai` `flask` `streamlit`  
+`pandas` `numpy` `matplotlib` `seaborn` `sql`
+`git`  `bash` `yaml`
+
+### Current Focus Areas
+
+- 🚀 **Generative AI**: RAG pipelines, prompt engineering, LLM fine-tuning  
+- 📊 **Applied Data Science**: Health, finance, public policy  
+- 🧪 **ML Research**: Clustering, model interpretability, evaluation metrics  
+- 🐳 **MLOps**: Model deployment with Docker & AWS (ECR, EC2, S3)
