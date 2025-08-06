@@ -26,7 +26,6 @@ I regularly write on **Data Science,NLP,Core Machine Learning,GenerativeAI** —
 - 🧪 **ML Research**: Clustering, model interpretability, evaluation metrics  
 - 🐳 **MLOps**: Model deployment with Docker & AWS (ECR, EC2, S3)
 
-  <p align="center">
-  <img src="banner.png" alt="Banner" width="100%" />
+<p align="center">
+  <img src="banner.png" alt="Banner" width="60%" />
 </p>
-
