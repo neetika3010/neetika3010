@@ -6,7 +6,7 @@
       <p>Experienced Data Scientist | GenAI | Public Policy</p>
     </td>
     <td align="right">
-      <img src="banner.png" alt="Banner" width="400px">
+      <img src="banner.png" alt="Banner" width="600px">
     </td>
   </tr>
 </table>
@@ -37,6 +37,4 @@ I regularly write on **Data Science,NLP,Core Machine Learning,GenerativeAI** —
 - 🧪 **ML Research**: Clustering, model interpretability, evaluation metrics  
 - 🐳 **MLOps**: Model deployment with Docker & AWS (ECR, EC2, S3)
 
-<p align="center">
-  <img src="banner.png" alt="Banner" width="60%" />
-</p>
+
