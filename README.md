@@ -24,3 +24,7 @@ I regularly write on **Data Science,NLP,Core Machine Learning,GenerativeAI** —
 - 📊 **Applied Data Science**: Health, finance, public policy  
 - 🧪 **ML Research**: Clustering, model interpretability, evaluation metrics  
 - 🐳 **MLOps**: Model deployment with Docker & AWS (ECR, EC2, S3)
+
+  <p align="center">
+  <img src="assets/banner.gif" alt="Data to Impact Banner" width="100%" />
+</p>
