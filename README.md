@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner.png" alt="Banner" width="100%" />
-</p>
+
 ## Welcome to my GitHub!
 
 I'm a **Data Scientist** with a passion for solving real-world problems using Statistics,Core Machine Learning,Deep Learning,NLP and GenAI. My work spans **regression analysis**, **unsupervised clustering**, **Generative AI and LLM-powered systems**, and **deep learning architectures**, applied to real-world challenges in **public health**, **election strategy**, **MSME development**, and **government policy analytics**.
@@ -27,4 +25,8 @@ I regularly write on **Data Science,NLP,Core Machine Learning,GenerativeAI** —
 - 📊 **Applied Data Science**: Health, finance, public policy  
 - 🧪 **ML Research**: Clustering, model interpretability, evaluation metrics  
 - 🐳 **MLOps**: Model deployment with Docker & AWS (ECR, EC2, S3)
+
+  <p align="center">
+  <img src="banner.png" alt="Banner" width="100%" />
+</p>
 
