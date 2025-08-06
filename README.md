@@ -26,5 +26,5 @@ I regularly write on **Data Science,NLP,Core Machine Learning,GenerativeAI** —
 - 🐳 **MLOps**: Model deployment with Docker & AWS (ECR, EC2, S3)
 
   <p align="center">
-  <img src="assets/banner.gif" alt="Data to Impact Banner" width="100%" />
+  <img src="banner.gif" alt="Data to Impact Banner" width="100%" />
 </p>
