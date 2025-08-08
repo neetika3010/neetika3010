@@ -12,7 +12,7 @@
 </table>
 
 
-I'm a **Data Scientist** with a passion for solving real-world problems using Statistics,Core Machine Learning,Deep Learning,NLP and GenAI. My work spans **regression analysis**, **unsupervised clustering**, **Generative AI and LLM-powered systems**, and **deep learning architectures**, applied to real-world challenges in **public health**, **election strategy**, **MSME development**, and **government policy analytics**.
+I'm a **Data Scientist** solving real-world problems using Statistics,Core Machine Learning,Deep Learning,NLP and GenAI. My work spans **regression analysis**, **unsupervised clustering**, **Generative AI and LLM-powered systems**, and **deep learning architectures**, applied to real-world challenges in **public health**, **election strategy**, **MSME development**, and **government policy analytics**.
 
 Currently building robust, reproducible AI workflows using **PyTorch**, **LangChain**, **Docker**, and **AWS** :with a focus on modularity, deployment, and impact.
 
