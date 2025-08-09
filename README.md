@@ -17,12 +17,6 @@ I'm a **Data Scientist** solving real-world problems using Statistics,Core Machi
 Currently building robust, reproducible AI workflows using **PyTorch**, **LangChain**, **Docker**, and **AWS** :with a focus on modularity, deployment, and impact.
 
 
-### Blog and Learning Resources
-
-I regularly write on **Data Science,NLP,Core Machine Learning,GenerativeAI** : turning complex topics into intuitive explainers.  
-**Check out my blog on [Medium](https://medium.com/@neetikashree)** for articles on AI evaluation, RAG, and more!
-
-
 ### Languages and Tools
 
 `python` `pytorch` `scikit_learn` `huggingface`  
